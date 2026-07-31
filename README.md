@@ -113,15 +113,13 @@ python -m streamlit run app.py
 
 ## Screenshots
 
-You can add screenshots of the Streamlit application here.
+### Home Page
 
-Example:
+![Home Page](Screenshot%202026-07-31%20102633.png)
 
-```
-Home Page
+### Prediction Result
 
-Prediction Result
-```
+![Prediction Result](Screenshot%202026-07-31%20102532.png)
 
 ---
 
