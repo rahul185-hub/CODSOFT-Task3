@@ -14,8 +14,7 @@ The objective of this project is to predict customer churn using Machine Learnin
 
 This project uses the **Customer Churn Dataset** from Kaggle.
 
-Dataset Link:
-https://www.kaggle.com/datasets/abdulwadood11220/customer-churn-dataset
+Dataset: [Customer Churn Dataset on Kaggle](https://www.kaggle.com/datasets/abdulwadood11220/customer-churn-dataset)
 
 ---
 
@@ -64,16 +63,17 @@ Customer-Churn-Prediction/
 
 ---
 
-## Features Used
+## Features
 
-- Age
-- Gender
-- Tenure
-- Monthly Charges
+- Predicts whether a customer is likely to churn.
+- User-friendly Streamlit web interface.
+- Trained using Support Vector Machine (SVM).
+- Real-time predictions.
+- Saves the trained model using Joblib.
 
 ---
 
-## Model Used
+## Machine Learning Model
 
 - Support Vector Machine (SVM)
 
@@ -117,11 +117,17 @@ python -m streamlit run app.py
 
 ![Home Page](Screenshot%202026-07-31%20102633.png)
 
-### Prediction Result
+### Prediction Example
 
 ![Prediction Result](Screenshot%202026-07-31%20102532.png)
 
 ---
+
+## Results
+
+- Successfully predicts customer churn.
+- Achieved good accuracy using Support Vector Machine (SVM).
+- Deployed as a Streamlit web application.
 
 ## Author
 
